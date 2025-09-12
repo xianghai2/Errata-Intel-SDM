@@ -1,0 +1,9 @@
+Volume 3, CHAPTER 11 PROCESSOR MANAGEMENT AND INITIALIZATION
+Section 11.11.8 Optional Processor Microcode Update Specifications
+Paragraph 1, Line 3:
+
+“the facility described in Section 9.11.6) or rely on a facility provided by the BIOS to perform microcode updates.”
+
+should be:
+
+“the facility described in Section 11.11.6) or rely on a facility provided by the BIOS to perform microcode updates.”
