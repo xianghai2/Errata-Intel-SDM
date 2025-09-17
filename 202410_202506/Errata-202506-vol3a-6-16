@@ -1,0 +1,21 @@
+Volume 3, CHAPTER 6 PROTECTION
+Section 6.8.4 Accessing a Code Segment Through a Call Gate
+
+Page 6-16 Vol. 3A
+
+Paragraph 2, Line 3:
+
+"than the DPL of the call gate. For example, in Figure6-15, call gate A has a DPL of 3. So calling procedures at all "
+
+should be:
+
+"than the DPL of the call gate. For example, in Figure6-12, call gate A has a DPL of 3. So calling procedures at all "
+
+
+Paragraph 3, Line 2:
+
+"is, the RPL must be less than or equal to the DPL of the call gate. In the example in Figure6-15, a calling procedure"
+
+should be:
+
+"is, the RPL must be less than or equal to the DPL of the call gate. In the example in Figure6-12, a calling procedure"
