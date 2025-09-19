@@ -1,0 +1,33 @@
+Volume 3,  CHAPTER 7   INTERRUPT AND EXCEPTION HANDLING
+Section  7.15 EXCEPTION AND INTERRUPT REFERENCE
+
+Page 7-36 Vol. 3A
+
+Table 7-6.  Invalid TSS Conditions 
+
+Column "Invalid Condition"
+
+Row 17:
+
+ "The stack segment DPL ? CPL."
+
+should be 
+
+"The stack segment DPL ≠ CPL."
+
+Row 18:
+
+"The stack segment selector RPL ? CPL."
+
+should be
+
+"The stack segment selector RPL ≠ CPL."
+
+Row 22:
+
+"The nonconforming code segment DPL ? CPL."
+
+should be
+
+"The nonconforming code segment DPL ≠ CPL."
+
