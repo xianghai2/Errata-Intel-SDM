@@ -1,0 +1,16 @@
+Volume 3,  CHAPTER 7   INTERRUPT AND EXCEPTION HANDLING
+Section  7.15 EXCEPTION AND INTERRUPT REFERENCE
+
+Page 7-40 Vol. 3A
+
+Sub-section "Description"
+
+Paragraph 5, Line 2
+
+"tion) or loading the missing stack segment into memory (in the case of a not-present violation." 
+
+should be: 
+
+"tion) or loading the missing stack segment into memory (in the case of a not-present violation)."
+
+
