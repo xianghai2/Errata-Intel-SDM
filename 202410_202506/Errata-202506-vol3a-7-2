@@ -1,0 +1,12 @@
+Volume 3,  CHAPTER 7   INTERRUPT AND EXCEPTION HANDLING
+Section 7.14.3 IRET in IA-32e Mode
+
+Page Vol. 3A 7-21
+
+Paragraph 5, Line 2:
+
+"the target CPL ? 3, IRET allows SS to be loaded with a NULL selector. As part of the stack switch mechanism, an"
+
+should be:
+
+"the target CPL ≠ 3, IRET allows SS to be loaded with a NULL selector. As part of the stack switch mechanism, an"
