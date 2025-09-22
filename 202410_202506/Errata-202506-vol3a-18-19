@@ -1,0 +1,13 @@
+Volume 3,  CHAPTER 18  INTERPRETING MACHINE CHECK ERROR CODES 
+
+Section  18.7 INCREMENTAL DECODING INFORMATION: INTEL® XEON® PROCESSOR D FAMILY, MACHINE ERROR CODES FOR MACHINE CHECK
+
+Page  Vol. 3B 18-19
+
+Paragraph 1, Line 5:
+
+"register banks IA32_MC9−IA32_MC10. Table 18-18 lists model-specific error codes that apply to IA32_M-"
+
+should be:
+
+"register banks IA32_MC9−IA32_MC10. Table 18-25 lists model-specific error codes that apply to IA32_M-"
