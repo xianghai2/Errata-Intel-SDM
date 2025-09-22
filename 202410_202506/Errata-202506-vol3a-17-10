@@ -1,0 +1,13 @@
+Volume 3,  CHAPTER 17  MACHINE-CHECK ARCHITECTURE 
+
+Page 17-10 Vol. 3B
+
+Section 17.3.2.4.1  IOMCA
+Paragraph 2, Line 2
+
+"Ci_STATUS register as Generic I/O error. The corresponding MCA error code is defined in Table 15-8. IA32_M-"
+
+should be: 
+
+"Ci_STATUS register as Generic I/O error. The corresponding MCA error code is defined in Table 17-9. IA32_M-"
+
