@@ -1,0 +1,13 @@
+Volume 3,  CHAPTER 17  MACHINE-CHECK ARCHITECTURE 
+
+Page  17-28 Vol. 3B
+
+Section 17.10.4 Multiple MCA Errors 
+
+Paragraph 4, Line 2:
+
+"processor, it can no longer rely on affected threads as specified in Table 15-20 above. System software is"
+
+should be:
+
+"processor, it can no longer rely on affected threads as specified in Table 17-20 above. System software is"
