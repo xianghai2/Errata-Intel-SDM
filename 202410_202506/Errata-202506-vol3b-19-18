@@ -1,0 +1,14 @@
+Volume 3,  CHAPTER 19  DEBUG, BRANCH PROFILE, TSC, AND INTEL® RESOURCE DIRECTOR TECHNOLOGY (INTEL® RDT) FEATURES
+
+Section  19.4.8   LBR Stack
+
+Page  19-18 Vol. 3B
+
+
+Paragraph 2, Line 2:
+
+"column of Table 19-4) that store source and destination address of recent branches (see Figure 19-3): "
+
+should be:
+
+"column of Table 19-4) that store source and destination address of recent branches (see Figure 19-4): "
