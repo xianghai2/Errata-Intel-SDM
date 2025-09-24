@@ -1,0 +1,14 @@
+CHAPTER 19  DEBUG, BRANCH PROFILE, TSC, AND INTEL® RESOURCE DIRECTOR TECHNOLOGY (INTEL® RDT) FEATURES
+
+Section    19.19.4   Enabling Cache Allocation Technology Usage Flow
+
+Page    Vol. 3B 19-57
+
+Figure  Figure 19-30
+
+"CQE Capability"
+
+should be:
+
+"PQE Capability"
+
