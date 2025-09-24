@@ -1,0 +1,13 @@
+Volume 3,  CHAPTER 19  DEBUG, BRANCH PROFILE, TSC, AND INTEL® RESOURCE DIRECTOR TECHNOLOGY (INTEL® RDT) FEATURES
+
+Section  19.18.7    Monitoring Resource Selection and Reporting Infrastructure
+
+Page    19-50 Vol. 3B
+
+Paragraph 4, Line 2:
+
+"monitoring described in Chapter 18. The simplified layout of the MSR is shown in Figure 19-24. "
+
+should be:
+
+"monitoring described in Chapter 21. The simplified layout of the MSR is shown in Figure 19-24. "
