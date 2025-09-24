@@ -1,0 +1,15 @@
+Volume 3,  CHAPTER 19  DEBUG, BRANCH PROFILE, TSC, AND INTEL® RESOURCE DIRECTOR TECHNOLOGY (INTEL® RDT) FEATURES
+
+Section   19.18.8    Monitoring Programming Considerations
+
+Page    Vol. 3B 19-51
+
+Paragraph 1, Line 1:
+
+"Figure 19-25 illustrates how system software can program IA32_QOSEVTSEL and IA32_QM_CTR to perform "
+
+should be:
+
+"Figure 19-25 illustrates how system software can program IA32_QM_EVTSEL and IA32_QM_CTR to perform "
+
+Also for Figure 19-25, " IA32_QOSEVTSEL MSR" should be "IA32_QM_EVTSEL MSR"
