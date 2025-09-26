@@ -1,0 +1,13 @@
+CHAPTER 21   PERFORMANCE MONITORING
+
+Section    21.2.2  Architectural Performance Monitoring Version 2
+
+ Page   21-8 Vol. 3B
+
+Paragraph 2, line 3:
+
+"area (see Section 18.15.5), clears the counter overflow status., and sets the “OvfBuffer” bit in IA32_PERF_-"
+
+should be:
+
+"area (see Section 19.4.9), clears the counter overflow status., and sets the “OvfBuffer” bit in IA32_PERF_-"
