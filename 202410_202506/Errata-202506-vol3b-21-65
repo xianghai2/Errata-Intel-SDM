@@ -1,0 +1,13 @@
+CHAPTER 21   PERFORMANCE MONITORING
+
+Section    21.3.8.1.1  PEBS Data Format
+
+ Page     Vol. 3B 21-65
+
+Paragraph 2, line 1:
+
+"The PEBS records at offsets 98H, A0H, and ABH record data gathered from three of the PEBS capabilities in prior"
+
+should be:
+
+"The PEBS records at offsets 98H, A0H, and A8H record data gathered from three of the PEBS capabilities in prior "
