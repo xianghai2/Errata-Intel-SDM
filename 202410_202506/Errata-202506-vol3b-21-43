@@ -1,0 +1,13 @@
+CHAPTER 21   PERFORMANCE MONITORING
+
+ 21.3.4.4.1  PEBS Record Format
+
+ Page    Vol. 3B 21-43
+
+Paragraph 3, line 4:
+
+"store is enabled, this field will contain information indicating the status of the store, as detailed in Table 19."
+
+should be:
+
+"store is enabled, this field will contain information indicating the status of the store, as detailed in Table 21-15."
