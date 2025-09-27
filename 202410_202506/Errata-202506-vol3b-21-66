@@ -1,0 +1,14 @@
+CHAPTER 21   PERFORMANCE MONITORING
+
+Section    21.3.8.1.3  Data Address Profiling
+
+ Page     21-66 Vol. 3B
+
+Paragraph 1, line 3:
+
+"into a PEBS record affects entries at offsets 98H, A0H, and A8H, as shown in Table Table 21-27. "Layout of Data"
+
+should be:
+
+"into a PEBS record affects entries at offsets 98H, A0H, and A8H, as shown in Table Table 21-38. "Layout of Data"
+
