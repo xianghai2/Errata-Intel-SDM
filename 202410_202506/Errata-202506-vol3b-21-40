@@ -1,0 +1,13 @@
+CHAPTER 21   PERFORMANCE MONITORING
+
+ 21.3.4.1  Global Counter Control Facilities in Sandy Bridge Microarchitecture
+
+ Page    21-40 Vol. 3B
+
+Paragraph 1, line 1:
+
+"Figure 21-46 depicts the layout of IA32_PERF_GLOBAL_CTRL MSR. The enable bits (PMC4_EN, PMC5_EN, "
+
+should be:
+
+"Figure 21-28 depicts the layout of IA32_PERF_GLOBAL_CTRL MSR. The enable bits (PMC4_EN, PMC5_EN, "
