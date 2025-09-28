@@ -1,0 +1,14 @@
+CHAPTER 21   PERFORMANCE MONITORING
+
+Section     21.6.3.5.1  Selecting Events to Count
+
+ Page     21-120 Vol. 3B
+
+ Table 21-91.  Column "Description"
+
+"See Table 15-3 for the addresses of the ESCR MSRs"
+
+should be:
+
+"See Table 2-63 for the addresses of the ESCR MSRs"
+
