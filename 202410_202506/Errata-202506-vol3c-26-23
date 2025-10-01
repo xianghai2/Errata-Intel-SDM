@@ -1,0 +1,13 @@
+CHAPTER 26     VIRTUAL MACHINE CONTROL STRUCTURES
+
+Section   26.8.1 VM-Entry Controls
+
+Page  Vol. 3C 26-23
+
+Paragraph 1, line 2:
+
+"the controls supported. See Chapter 28 for how these controls affect VMentries."
+
+should be:
+
+"the controls supported. See Chapter 28 for how these controls affect VMentries."
