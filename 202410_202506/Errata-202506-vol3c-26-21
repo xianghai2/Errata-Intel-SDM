@@ -1,0 +1,24 @@
+CHAPTER 26     VIRTUAL MACHINE CONTROL STRUCTURES
+
+Section   26.7.1 VM-Exit Controls
+
+Page  Vol. 3C 26-21
+
+Paragraph 2, line 1:
+
+"Table 26-13 lists the primary VM-exit controls. See Chapter 28 for complete details of how these controls affect"
+
+should be:
+
+"Table 26-13 lists the primary VM-exit controls. See Chapter 29 for complete details of how these controls affect"
+
+Page  26-22 Vol. 3C
+
+Paragraph 4, line 1:
+
+"Table 26-14 lists the secondary VM-exit controls. See Chapter 28 for more details of how these controls affect"
+
+should be:
+
+"Table 26-14 lists the secondary VM-exit controls. See Chapter 29 for more details of how these controls affect"
+
