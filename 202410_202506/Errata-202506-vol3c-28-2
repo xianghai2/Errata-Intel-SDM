@@ -1,0 +1,25 @@
+CHAPTER 28     VM ENTRIES
+
+Page  28-2 Vol. 3C
+
+Section  28.1 BASIC VM-ENTRY CHECKS
+
+Line 14: 
+
+"indicating the cause of the failure is stored in the VM-instruction error field. See Chapter 31 for the error "
+
+should be:
+
+"indicating the cause of the failure is stored in the VM-instruction error field. See Chapter 32 for the error "
+
+
+Section  28.2  HECKS ON VMX CONTROLS AND HOST-STATE AREA
+
+Paragraph 2, Line 3:
+
+"indicates whether the failure was due to the controls or the host-state area (see Chapter 31)."
+
+should be:
+
+"indicates whether the failure was due to the controls or the host-state area (see Chapter 32)."
+

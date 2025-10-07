@@ -1,0 +1,11 @@
+CHAPTER 28     VM ENTRIES
+
+Page   Vol. 3C 28-1
+
+Line 26:
+
+"the failure is stored in the VM-instruction error field. See Chapter 31 for the error numbers."
+
+should be:
+
+"the failure is stored in the VM-instruction error field. See Chapter 32 for the error numbers."
