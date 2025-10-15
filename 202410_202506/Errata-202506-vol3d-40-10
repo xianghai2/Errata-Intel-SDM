@@ -1,0 +1,13 @@
+CHAPTER 40      INTEL® SGX INTERACTIONS WITH IA32 AND INTEL® 64 ARCHITECTURE
+
+Page  40-10 Vol. 3D
+
+Section  40.9    INTERACTIONS OF INIT, SIPI, AND WAIT-FOR-SIPI WITH INTEL® SGX
+
+Paragraph 1, Line 3:
+
+"(Table 9.1 in Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 3A). If the logical processor"
+
+should be:
+
+"(Table 11.1 in Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 3A). If the logical processor"
